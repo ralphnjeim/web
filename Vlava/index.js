@@ -1,4 +1,4 @@
-fetch('https://ralphnjm.herokuapp.com/data')
+fetch('https://ralphnjeim.herokuapp.com/data')
   .then(response => response.json())
   .then(json => {
     var RH = document.getElementById('RH');
