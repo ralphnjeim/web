@@ -19,7 +19,6 @@ for (let i = 0; i < sheetName.length; i++) {
     })
 }
 
-//var json = console.log(data);
 
 // use the express-static middleware
 app.use(express.static("public"))
